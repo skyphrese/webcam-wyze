@@ -46,4 +46,4 @@ Instructions
 
     you can disable speaker output and microphone input if you only need camera functions.
 
-Download link to firmware: https://1drv.ms/u/s!Ai3pz0GbGvfhgd5Rg5SQJdvGmJsj0Q?e=wwzfHG  or see Bin file in repo
+Download link to firmware: https://1drv.ms/u/s!Ai3pz0GbGvfhgd5Rg5SQJdvGmJsj0Q?e=wwzfHG  or dl the demo.bin file in this repo
