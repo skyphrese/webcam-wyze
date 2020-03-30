@@ -2,14 +2,6 @@
 
 Use a WYZE cam V2 as a USB webcam!
 
-Hey guys, WYZE provided firmware for the wyze cam v2 to help people during these troubling times.
-
-test images:
-
-https://imgur.com/a/LE2hhEM
-
-I believe u/WyzeDS was the original creator? It seems like he took the images in the DOC i received in my work email.
-
 You will need
 
     MicroSD card, 16MB capacity or more.
